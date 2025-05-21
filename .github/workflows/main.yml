@@ -84,4 +84,4 @@ jobs:
           # Для каждого пересобранного о браза 
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не укаfзывать версию
-          tags: ваш-логин-на-docker-hub/taski_backend:latest
+          tags: svc31/taski_backend:latest
